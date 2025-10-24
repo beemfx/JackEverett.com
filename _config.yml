@@ -20,7 +20,7 @@
 
 title: Jack Everett
 description: The official website of Jack Everett. Commentaries, criticisms, reviews, observations, and musings.
-baseurl: "/SubUrl" # the subpath of your site, e.g. /blog (github pages does not use this)
+baseurl: "" # the subpath of your site, e.g. /blog (github pages will ammend this)
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: realJackEverett
 
