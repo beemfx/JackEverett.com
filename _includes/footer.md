@@ -1,0 +1,1 @@
+<footer>&copy; {{ "now" | date: "%Y" }} Jack Everett. All rights reserved.</footer>

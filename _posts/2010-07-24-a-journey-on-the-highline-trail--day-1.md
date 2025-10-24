@@ -1,0 +1,30 @@
+---
+layout: post
+title: "A Journey On The Highline Trail: Day 1"
+date: 2010-07-24 06:00:00 +0000
+---
+This post marks the official beginning of my journey along the Highline Trail. I'd arrived in Salt Lake City, Utah the day before I was to depart. This was in hopes that I could get into the mountain as quickly as possible, and hopefully get an early start, or at least not too late a start. I got my gear and supplies ready that night. It's been my philosophy to have everything ready when you get to the trail head. I don't see any reason why a backpacker should be messing around with their gear just before departing, they should be ready to go.
+
+I needed a driver to help me out. My mom would do it. I would drop off one vehicle at the end point of the trail, and then get driven to my starting point. The plan was simple. Get a good night's rest in Salt Lake. Wake up at 5:30 AM, depart by 6:30 AM, hopefully arriving at the Highline trail head by 8:00 AM. Drop my departure vehicle off there, then have my driver take me around to the other end of the mountain, to Chepeta Lake. This would be approximately five hours. So I was hoping to be at the Chepeta trail head by 1:00 PM. I figured 2:00 PM at the latest. Turns out I was wrong, very wrong. Everything went smoothly in dropping of the departure vehicle, but getting to the starting point was a disaster. To make a long story short, after a busted radiator cap and a flat tire, I arrived at the Chepeta trail head at 4:30 PM. More than three hours later than I had hoped for. I wasn't too worried, though. I figured I'd just make it as far as I could, and camp for the night.
+
+Therein was one of my major mistakes on the trip. I never had any set itinerary. I knew where I was starting, I knew where I was ending, but I had no specific plans as to where I'd be camping. I had a map, and I figured I'd just makes plans each day as to where might be a good camping spot. Lakes were my best bet, I knew that, and I had a guide book which had information about all the lakes, stating where to find camping spots around them and so forth.
+
+[caption id="" align="alignright" width="327"]![Image](/https://www.jackeverett.com/rc_files/h/l/hlday11.PNG) Ready to depart.[/caption]
+
+With such a late departure, my intention was to get to a place called Reader Lake, it was about five miles in, I figured I could easily make it there and set up camp before nightfall. Unfortunately I lost the trail right away. The east end of the range isn't as popular, and for that reason the trails are not well maintained. I wasn't too concerned about that, I knew to head in a generally westward direction. Which I did, and I figured if I got too far off course, I'd use my GPS.
+
+I'm glad I had a GPS unit, too. Let me tell you, that first day I was constantly pulling it out to check where I was, and where the trail should be, and how far away Reader Lake was. Eventually I found the trail again, and a sign that said, "Reader Lakes", but on my map there were three lakes in the region, and my goal was to reach the northwestern-most one. So I started wandering in a northwestern direction. This proved to pit me in the middle of a large wooded area, where I really couldn't see any landmarks, and the terrain was very difficult to navigate.
+
+I basically found myself being eaten by bugs, and checking my GPS only to see that I wasn't anywhere near where I thought I was. So I headed back south, hoping to pick up the trail again, which I did, and I figured I just follow it further to the west until I found a decent camping spot. After a few hours I found myself ascending North Pole Pass, where I finally got above the treeline, and could actually see some landmarks. Indeed, I could see Reader Lake then, but I was so far past it, that I didn't want to go back. I thought maybe I could make it over North Pole Pass, and camp on the other side, so I continued going up. It was getting late, though, almost 8:00 PM, the air was getting cooler, and the sky was growing dim. I made it about half way up the pass, when I could see another major lake to the south, Taylor Lake. It didn't look so far away, and I knew I needed to set up camp, so I hightailed it down the pass, and around to the lake.
+
+[caption id="" align="alignleft" width="335"]![Image](/https://www.jackeverett.com/rc_files/h/l/hlday12.PNG) My first camp.[/caption]
+
+I never really wanted to stay at Taylor Lake, mostly because it wasn't mentioned in the guide book that I had, and I didn't know if there were any good camping spots. I still don't know if there are any good camping spots, because the one that I found wasn't so great. I often try to find a camping spot that has been previously used, in hopes that the person that came before me knew what they were doing. I did manage to find what looked like a previous used spot, and it was getting much darker, so I set up camp.
+
+I knew that I should have purified water for the next day, but I was so tired that I just wanted to get to bed. I did make some dinner, ramen noodles, and some hot cocoa. To my dissatisfaction, however, I didn't have much of an appetite, and when I sipped the hot cocoa it burned my mouth. Not a very good dinner.
+
+Feeling discouraged for the day, I climbed into the tent, and bundled up in my sleeping bag. I knew then that it wasn't going to be a very comfortable night. The ground didn't seem very flat, and I realized that I had been badly bruised. You see, I had been wearing a pair of shorts with a belt, and the waistband of my backpack had been rubbing against the belt, pressing it into my waist, and had caused some serious bruising on my hips. I saw these bruises when I climbed into bed. Nevertheless, I tried to sleep.
+
+The Journey Continues on <a href="http://blog.roughconcept.com/highline-2/">Day 2</a>.
+
+[caption id="" align="aligncenter" width="401"]![Image](/https://www.jackeverett.com/rc_files/h/l/hlday1p.PNG) My progress so far. The yellow highlighted sections indicates the Highline trail. The red portion indicates the day's travels. It doesn't look like I went very far, and I didn't.[/caption]

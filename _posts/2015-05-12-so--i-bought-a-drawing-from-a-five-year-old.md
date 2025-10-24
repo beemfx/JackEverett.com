@@ -1,0 +1,20 @@
+---
+layout: post
+title: "So, I Bought a Drawing From a Five Year Old"
+date: 2015-05-12 19:12:00 +0000
+---
+I am a collector of fine art. Being that I'm not a millionaire my primary source for art is eBay. I've found that if you look carefully you can find authentic original art on eBay. (There are also a lot of Chinese knockoff paintings, but the genuine stuff is out there.) The beauty of art is that it is virtually worthless so you can get nice paintings for relatively cheap, usually a few hundred dollars, and the art dealers are very willing to negotiate on the listed price. The main thing for me is not the value of the piece, it's how much I like it, so a good painting by an unknown artist has a lot of value to me.
+
+[caption id="" align="alignright" width="384"]![Image](/https://www.jackeverett.com/rc_files/r/i/rickyjesusl.JPG) When I saw a drawing by a five year old on eBay I had to have it![/caption]
+
+I've collected a few pieces so far. A kitten, a woman, a cityscape, as well as others, and I thought I ought to add something religious to the mix, so I decided to look for a painting of the Christian god, Jesus, and what did I find but a drawing by a five year old named Ricky! ''What,'' I thought, ''what could this be? Some kind of joke?'' No. It was a drawing by a five year old that his dad put up for auction for him.
+
+As soon as I saw it I knew that I must own it. I mean what five year old could could possibly have the ego to think that his drawing had any value? I knew I had to feed his ego. In all fairness to the boy, there was a remark in the description mentioning that the family was having hard times, and little Ricky wanted to do what he could to help, so he made a run of 100 drawings of Jesus on the cross to sell. I doubt there was any actual arrogance involved. Now, don't think that I bought that drawing out of pity, because I'm sure the family doesn't want pity. I do empathize with them, but the reason I bought the drawing was mostly for myself. You see, I just wanted to be able to tell this story. I wanted to tell the world the story of how I bought a drawing from a five year old. That's it. I doubt that Ricky even made two dollars. It cost me $4.95 total. Shipping was a buck twenty, and with packing supplies and eBay and PayPal fees I'm sure Ricky didn't get much. (His dad probably gave him a five dollar bill, so it was probably a net loss for the family.)
+
+Okay, so mostly I bought the drawing for me, to tell this story, but I do admit that I kind of hope that I made Ricky feel good. Maybe his family isn't going to be rich but maybe he feels like he did something to contribute. I hope I didn't give him delusions of grandeur, though. Apparently he made a run of 100 of these drawings, so I hope he's not expecting to make five hundred dollars, because the likelihood of that is pretty low.
+
+Now onto the analysis of the drawing...
+
+[caption id="" align="aligncenter" width="394"]![Image](/https://www.jackeverett.com/rc_files/r/i/rickyjesus.JPG) Jesus on the Cross by Ricky-Limited Edition[/caption]
+
+To fully understand a piece of art, we must first be fluent with its lines, colors, themes, and subject, then ask two questions: 1) How skillfully has the objective of the art been rendered and 2) How important is that objective? Question 1 rates the artwork's perfection; question 2 rates its importance. And once these questions have been answered, determining the artwork's greatness becomes a relatively simple matter. If the artwork's score for perfection is plotted along the horizontal of a graph, and its importance is plotted on the vertical, then calculating the total area of the artwork yields the measure of its greatness. A landscape by Monet may score high on the vertical, but only average on the horizontal. A Michelangelo painting, on the other hand, would score high both horizontally and vertically, yielding a massive total area, thereby revealing the art to be truly great... Who am I kidding, it's a drawing by a five year old. It's fantastic.

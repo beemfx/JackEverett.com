@@ -1,0 +1,14 @@
+---
+layout: post
+title: "That Was a Dumb Movie: Murder by Numbers"
+date: 2014-04-25 11:51:00 +0000
+---
+I probably saw more films in theaters in 2002 than any other year of my life, basically I was going every other week. I saw a lot of dumb movies. Most of them I don't even remember, but a few included ''Dark Blue'' and ''Star Wars: Episode II - Attack of the Clones''. I'm sure I saw a few good ones too, but the one that has been bugging me for the past 12 years is ''Murder by Numbers''.
+
+The film stars Sandra Bullock and Ben Chaplin as two detectives investigating a murder committed by two high school students played by Ryan Gosling and Michael Pitt. Part of the reason I wanted to see the film was because of Ms. Bullock and Mr. Chaplin. I thought Bullock was hot, she looked like this girl, Charlene, from my school days, and Chaplin had been in ''The Thin Red Line'' so I kind of liked him for that. Apparently Ryan Gosling is now famous. I've heard his name around, so I assume women find him attractive, but no one had heard of him in 2002.
+
+[caption id="" align="alignright" width="400"]![Image](/https://www.jackeverett.com/rc_files/m/b/mbn001.JPG) The murderers wore plastic suits![/caption]
+
+Okay, so it's been 12 years since I've seen it, so most of what I remember about the plot was that it was a generic police procedural. There was just one thing that made the movie dumb, though. The thing that has been bothering me for years. The two high school students came up with this elaborate plot to commit murder and not get caught. They went through all sorts of efforts to plant fake evidence, and not leave behind any real evidence. I believe they even wore hazmat suits during the murder in order to do so. I mean in ''American Psycho'' Christian Bale also wore a raincoat while committing murder, but that wasn't to get away with it, it was so his suit didn't get covered in blood.
+
+Basically that was the downfall of this movie, because honestly, it's not really that hard to get away with murder. Just drive to some random town you've never been to before, kill some random person, it probably doesn't even matter how. Leave behind as much evidence as you like, and my guess is you'll never get caught. I mean as long as no one saw you. If you don't know the victim, who's going to even think to look for you. There certainly doesn't need to be all this scheming involved. That's what's bugged me about this movies for all these years. These kids could have gotten away with murder so easily. They just thought about it too hard. They were basically idiots. They were twofold idiots. First, for wanting to kill someone at all. And second, for committing murder in such a stupid manner. My real gripe is with whoever wrote this story. It sounds like a high school student wrote this story, because no rational adult would. That's why ''Murder by Numbers'' is a dumb movie.

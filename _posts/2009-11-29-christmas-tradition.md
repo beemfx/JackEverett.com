@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Christmas Tradition"
+date: 2009-11-29 18:52:00 +0000
+---
+Despite the fact that I absolutely hate cold weather, December is one of my favorite times of the year. The reason for this is, like many people,I love the Christmas season. I like giving gifts, listening to the music, and the overall seasonal feelings of Christmas. To celebrate Christmas this year with my readers I will be sharing a very special Christmas tradition of mine. A tradition that I have faithfully carried out since I was a lad. That tradition is my watching of Christmas movies during the days leading up until Christmas. Each night I watch a movie or TV special relating to the Christmas season. This year I will be sharing my thoughts on each of these films and specials on a daily basis.
+
+The tradition began when I was a just a child. My mom had somewhat of an obsession of recording things with her VCR and she had made a series of tapes with various Christmas specials on them entitled "Christmas 1", "Christmas 2", and so forth. As a family we would watch some of these every year. This tradition has continued with me ever since, but now I have DVDs of most of the movies and specials, which are much higher quality than the VHS recordings.
+
+In general there is no particular order in which I watch these films, except for the specials that I watch first and last. On December 1st I will watch the first of these films, and that will be the official start of the Christmas season as far as I'm concerned. I will watch these features almost every day, leading up until the final special on Christmas Eve night. In many ways when the watching of the Christmas movies and specials is over Christmas ends for me, even though many people consider Christmas morning to be part of the holiday. For me, 'tis not so. Christmas ends after the credits of the final special scroll.
+
+Though watching Christmas movies and TV specials may not be a unique tradition, to me it is a special thing, and it really reminds me of what Christmas is all about: Tradition. I you enjoy my comments on the films and TV specials that I have come to love. Many of you will probably have seen most of the features that have become part of my tradition, but you will notice some new ones as well, and maybe even gain the same love that I have for them. As I finish this post I hope that all of my readers will find some happiness this holiday season.

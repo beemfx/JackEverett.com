@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Game Review: Sherlock Holmes: Nemesis"
+date: 2009-09-26 19:38:00 +0000
+---
+<i>Sherlock Holmes: Nemesis</i> (or <i>Sherlock Holmes versus Arsene Lupin</i>) is the 2007 installment of Frogwares' Sherlock Holmes series. It takes place after the events of <i>Sherlock Holmes: The Awakened</i>, and features the same cast, and similar gameplay. The game features an original Sherlock Holmes adventure, in which Mr. Holmes is challenged to a game of wits by the infamous cat-burglar Arsene Lupin. Sherlock Holmes, of course, is a popular fictitious character created by Sir Arthur Conan Doyle. The lesser known Arsene Lupin is a fictitious character created by French writer Maurice Leblanc (a contemporary of Doyle). The gameplay is typical of the modern adventure game, consisting of searching for clues or items (also known as pixel hunting), combining items together, and solving elaborate puzzles. While this formula seems to be standard in most adventure games, it doesn't always work, and in this game it fails.
+
+When it comes to pixel hunting, the games isn't terrible. Most of the important objects or clues are noticeable, at least with a little bit of walking around, but some of the game's areas are so large that there are a lot of places to look, and there is no guarantee that the object you need for the next puzzles is in the immediate area of the puzzle at hand. This can be somewhat annoying, especially when you are not exactly sure what type of object you need for the next puzzle. When a puzzle is limited to a single room, it is usually fairly easy to find the objects you need, but when spread across a large map such as the Tower of London map, it can be somewhat difficult.
+
+Combing items together is mostly intuitive. Usually the player will have a pretty good idea of what Mr. Holmes is supposed to be building, and failing that, Sherlock is carrying so few items at a time, that trying every possible combination is a viable option.
+
+The puzzles, however, are where this game really fails. Some of them are ridiculously difficult. Most players will need a walkthrough. With many of the more complex puzzles, the player won't even be sure what, exactly, they are supposed to be doing. There is a puzzle that involves building a birdcage, and if the player actually knew they were supposed to be building a birdcage it wouldn't be bad at all. Another involves moving coins around on a table, and it is just too complex to keep interest. This is just a sampling of the puzzles, some of the worst, none-the-less, but the player will notice that the further they get into the game, the less motivation that they will have to even try to figure out a puzzle, or even bother to go pixel hunting. The game is exhausting, in this regard.
+
+Frogwares' own website classifies this game as "Hard" whereas <i>Sherlock Holmes: The Awakened</i> was classified as "Medium", and their other adventure games are classified as either "Easy" or "Medium". Frogwares obviously knew this was their most difficult game, and for that reason it is the least fun. If you have enjoyed any of Frogwares' other adventure games this one will be the most frustrating.
+
+The story, on the other hand, is alright. It is an interesting tale of a battle of wits. It is dramatic and comical, and a good blend for the two characters. This does redeem the game somewhat, and will certainly add some appeal to any fans of Sherlock Holmes, and my even make it worth it to play through the game (although with an internet walkthrough).
+
+Overall, though frustrating, the game isn't horrible, it just isn't that good. If the puzzles made a little more sense, and the pixel hunting wasn't so tedious it could have been a really great Adventure Game. That simply isn't the case, and even hard core adventure gamers might want to pass this one up.
+<h3>Grade: B</h3>

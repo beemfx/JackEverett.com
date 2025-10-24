@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Rudolph the Red-Nosed Reindeer"
+date: 2009-12-14 22:00:00 +0000
+---
+Released in 1964 <i>Rudolph the Red-Nosed Reindeer</i> is a Rankin/Bass film based upon the song of the same name. You may have noticed that quite a few of the Rankin/Bass productions are based off of Christmas songs. If you've seen a lot of the song based shows, you'll also note that the shows have quite a bit more plot than the songs. For example, there's no Hermie in the song, or Clarice, or Sam the talking snowman, or island of misfit toys. Well when you're making a two minute song into a 65 minute film you've got to be creative.
+
+This film is about as popular as <i>A Charlie Brown Christmas</i>. Most people will have seen it. Interestingly enough, there are several versions of this film. As a child I watched the version played in the 80s. It featured a song called "Fame &amp; Fortune". The original 1964 version had a song called "Misfits", which was more appropriate to the plot. Being that I grew up with the "Fame &amp; Fortune" version, I prefer that version. The DVD I have, however, is the original version, and when I watched the DVD for the first time I was surprised to see a different version of the film. The DVD I have does feature the "Fame &amp; Fortune" as a bonus video, so I can still enjoy that song.
+
+One thing I want to comment on is the <i>Island of Misfit Toys</i>. It's completely ridiculous. One toy is a misfit because it is a bird that swims in stead of flies. My complaint is that it's a toy! A kid could make it fly or swim, or whatever the kid wanted it to do. A jack-in-the-box could be named whatever you want to name it. There's also a doll on the island that doesn't seem to have anything wrong with her. Also, if these toys are misfits, then they have no reason to believe that Santa could find them a home. Further, toy's don't have souls. I mean I think it's fine for shows like these to have talking animals and snowmen, but talking toys? The toys the elves were making early in the film weren't getting up and talking and walking around. What makes the toys on this island different? The whole island is pretty silly. I can't complain too much, though, the truth is that there are a lot of plot holes, and inconsistencies in this film, which you'll notice if you look into it too deeply.
+
+The truth is, it's a Christmas classic. It may have problems, but it's still a fun story, with sympathetic characters. I don't think I need to recommend it, because you've probably already seen it.

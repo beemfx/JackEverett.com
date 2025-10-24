@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Videographic Memory"
+date: 2010-02-05 15:03:00 +0000
+disabled: true
+---
+I have an exceptionally fine memory, but it isn't quite photographic. I in no way can look at a blackboard and remember everything on it. I don't really want to brag in writing about this, because I want to make a different point altogether, but I do have a very visual memory, and by visualization I can remember things very well. Since it would be incorrect to describe it as photographic, I don't describe it that way. Instead, I made up the term "Videographic Memory". It's like photgraphic, but instead of the brain recording photos of events seen, it records videos of events as they occurred.
+What I mean when I say I have a videographic memory is that my mind records pretty much every event that happens, but it doesn't necessarily record every detail and it doesn't record in high definition. So I can't, for example, recite the text out of the page of a book I've seen. Instead, I can recall how something occurred, but not necessarily the finer details of that event. This has been helpful to me as a writer, because I can take event from real life, and even though I can't remember all the details, I can use my creativity to create a fictional version of those details.
+As I said, I'm not writing this to brag, but instead I'm talking about this, because if you know you are gifted in some area, but can't explain it using terms you know, then just make something up. The beauty of this is that no one can argue with you. No one can tell me I don't have a videographic memory, because I made it up. I know exactly what it means, and it describes me perfectly.
+With this in mind, I do not suggest going around making up self declarations about yourself. There should be some reasoning behind a description you've made up. I do have an exceptionally fine memory, therefore I can make up some term to describe my memory. On the other hand, for example, someone who is not athletic, could not make up a term such as "recreationally innate", which implies athletic ability, and use it do describe their self. Some descriptions work, and some don't, so be careful when describing those attributes about yourself where you consider yourself gifted.
+

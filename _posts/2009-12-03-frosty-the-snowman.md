@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Frosty the Snowman"
+date: 2009-12-03 23:42:00 +0000
+---
+If you haven't heard of <i>Frosty the Snowman</i> then chances are that you aren't from North America. The song came out in 1950 with the famous TV special released in 1969. For a brief recap: Frosty is brought to life by a magic hat on Christmas Eve and tells the children that he needs to get to the North Pole so he can live there without melting.
+
+This has become a classic for a lot of reasons. It is timeless. It holds up even after 40 years, this could have been released last year and you wouldn't know the difference (of course the restoration done prior to the DVD release probably helps with that). The story is something that pretty much everyone can identify with. The animation and character style is unique. One of the producers, either Rankin or Bass I don't remember which, has said that they intended for every frame to look like a Christmas card, and I can honestly say that they did a pretty good job of that. These are just some of the reasons it's a classic.
+
+Now I'd like to comment and criticize it a bit. In all honesty it has never been one of my favorites. It has gotten into my holiday tradition simply by being famous. The truth is that a lot of plot elements make no sense. Let me elaborate. The story takes place on Christmas Eve, but the children seem to be in school that day, which maybe was the case in 1969, but I doubt it. Also, there is a lot of deus ex machina going on, for example a green house is sitting in the middle of the snow barrens. I know the narrator says that it was there to grow poinsettias for Christmas, but seriously, why is it in the middle of nowhere, and if it's Christmas Eve isn't it a little late to grow them? I guess when you only have 25 minutes to work with you got to take short cuts. Seriously, none of these things really bother me I just think it's funny to point them out.
+
+<i>Frosty the Snowman</i> is a good Christmas special, I'm not as fond of it because it's maybe a little too popular for my taste, but it does have it's popularity for a reason. Check back in for my comments on tomorrow's feature. I don't even know what I'm going to watch yet. I will say this, look forward to Saturday. This will be my first feature film of the Christmas season, and it is going to be a rare one, few of my readers, if any, will have heard of it, and I'll tell you right now, you're going to want to see it.

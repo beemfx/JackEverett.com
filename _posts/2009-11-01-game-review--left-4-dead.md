@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Game Review: Left 4 Dead"
+date: 2009-11-01 20:06:00 +0000
+---
+<i>Left 4 Dead</i> is a cooperative multi-player first person shooter released by Valve in 2008. The game offers players the opportunity to take on the zombie apocalypse as one of four human survivors, or to play as the special infected zombies in the versus gameplay mode. In many ways <i>Left 4 Dead</i> takes players back to the early first person shooter games where a character could run into a room, shoot everything up, and walk away with barely a scratch. This will come as a welcome alternative to slower paced single-player shooters. This game will take you back to a more classic time of shoot-em-ups, but with the graphics of a contemporary game.
+
+<i>Left 4 Dead</i> is one of the best co-op shooter experiences available today. The game was designed for players to use teamwork in order to survive. Of course, this means that the more human controlled players that you have, the better you are going to do. There are always four survivors battling the zombies, and an AI will direct all non-player controlled survivors. The AI is pretty good at getting player-controlled characters out of sticky situations, and they do pretty well at staying together and attacking zombies, the AI is not bad at all, but really good strategy requires human minds. Ideally gamers will want to play with all four survivors under human control.
+
+Where the game does fall short is in content. The game itself offers four campaigns that can be completed in one to two hours depending on the difficultly level and your experience on the maps. So in a rush a player can experience the full plot of the game in about four hours. This can be slightly overlooked by the fact that the game is very re-playable. There are harder difficulty settings to play on, the zombie ambushes are somewhat random, and there is more than one way to play through a map. Still, more content would have been nice. Originally Valve claimed that they would be producing regular releases of downloadable content, but in the year that <i>Left 4 Dead</i> has been available only one such expansion has been released. The variety of weapons and enemy types is small as well. There is a pistol, two types of shotguns, two types of automatic weapons, and a sniper rifle. All are fun to use in their own right, but a more vast array of weapons might have served the game better.
+
+Overall, however, this game will not disappoint. It is the answer to gamers looking for a fun co-op action experience. It is very violent, action packed, and the cure for anyone with an itch to take on the zombie apocalypse.
+<h3>Grade: A-</h3>

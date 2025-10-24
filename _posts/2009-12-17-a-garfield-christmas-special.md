@@ -1,0 +1,10 @@
+---
+layout: post
+title: "A Garfield Christmas Special"
+date: 2009-12-17 22:00:00 +0000
+---
+<i>A Garfield Christmas Special</i> came out in 1987, though it was reedited in 1991, which is the version most commonly seen, and the version that I watch for this season.
+
+For me this story really reminds me of what Christmas was like as a child. Jon, though an adult, acts the same way I did as a child. He has that "I can't wait til Christmas" attitude that many children share. He wakes up as early as possible on Christmas morning. Beyond the reminder of childhood, this show also provides that warm feeling that people talk about during Christmas. There is something very comforting when Grandma says to Garfield, "How did you know I needed a kitty in my lap?" and Garfield replies, "Lucky guess." That is perhaps my favorite part.
+
+I have been asked if I ever introduce new shows into my yearly tradition. My answer to that was that on occasion I do, but it is very rare. I do watch other Christmas shows during the season, but none have been added for many years. Several years ago I watched <i>The Santa Clause 2: The Mrs. Clause</i> and that had absolutely no chance of making it into the gamut. Even before that I saw Adam Sandler's <i>Eight Crazy Nights</i>, and that one almost made it into the list, but I guess I forgot about it the next year. I'd still like to see that one again. Last year I watched a movie called <i>Christmas Evil</i>. That one has to be seen to believed. It's a horror/comedy about some guy, that as a child saw his mommy kissing Santa Claus, and it emotionally damaged him so badly that he became obsessed with Santa as an adult. Ultimately he goes on an insane killing spree, and ends up flying past the moon and off into the night sky in his van. Very weird. Very ridiculous, and though I kind of want to see it again, just to see if it is really as insane as I remember it, it would never be in my cycle of Christmas shows. So there you have it, I do watch other Christmas shows.
