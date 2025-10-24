@@ -16,5 +16,5 @@ permalink: /pages/writings/mario-strikes-back
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"center","id":910,"width":535,"height":341} -->
-![Image](/assets/writings/mariostrikesback.jpg)
+![Image]({{ '/assets/writings/mariostrikesback.jpg' | relative_url }})
 <!-- /wp:image -->

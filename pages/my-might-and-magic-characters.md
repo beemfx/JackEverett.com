@@ -21,9 +21,9 @@ Here is a list of the names of characters I have used throughout the  Might and 
 
 Notes: Vvrana was a misspelling of Vyrana one of the default characters  on the NES version. On the NES the seccond letter looked like a ’V’ so I  just figured it was a double V.
 
-![Image](/assets/images/mm/mm_000.png)
+![Image]({{ '/assets/images/mm/mm_000.png' | relative_url }})
 
-![Image](/assets/images/mm/mm_001.png)
+![Image]({{ '/assets/images/mm/mm_001.png' | relative_url }})
 
 <h3 class="wp-block-heading">Might and Magic II: Gates to Another World (900-907)</h3>
 <ul class="wp-block-list">
@@ -53,11 +53,11 @@ Notes: Vvrana was a misspelling of Vyrana one of the default characters  on the 
 <li> Vaginali, Female, Evil, Elf, Archer</li>
 </ul>
 
-![Image](/assets/images/mm/mm2_000.png)
+![Image]({{ '/assets/images/mm/mm2_000.png' | relative_url }})
 
-![Image](/assets/images/mm/mm2_001.png)
+![Image]({{ '/assets/images/mm/mm2_001.png' | relative_url }})
 
-![Image](/assets/images/mm/mm2_002.png)
+![Image]({{ '/assets/images/mm/mm2_002.png' | relative_url }})
 
 <h3 class="wp-block-heading">Might and Magic II: Gates to Another World (900-901) (Sega Genesis)</h3>
 <ul class="wp-block-list">
@@ -83,11 +83,11 @@ Primary Hirelings Used (others were used at times, but these most frequently):
 <li> Drog, Male, Neutral, Human, Barbarian</li>
 </ul>
 
-![Image](/assets/images/mm/mm2gchars.jpg)
+![Image]({{ '/assets/images/mm/mm2gchars.jpg' | relative_url }})
 
-![Image](/assets/images/mm/mm2gcomplete.jpg)
+![Image]({{ '/assets/images/mm/mm2gcomplete.jpg' | relative_url }})
 
-![Image](/assets/images/mm/mm2ginn.jpg)
+![Image]({{ '/assets/images/mm/mm2ginn.jpg' | relative_url }})
 
 <h3 class="wp-block-heading">Might and Magic III: Isles of Terra (500-520)</h3>
 <ul class="wp-block-list">
@@ -101,14 +101,14 @@ Primary Hirelings Used (others were used at times, but these most frequently):
 <li> Crag Hack II, Male, Evil, Half-Orc, Barbarian</li>
 </ul>
 
-![Image](/assets/images/mm/mm3_000.png)
+![Image]({{ '/assets/images/mm/mm3_000.png' | relative_url }})
 
-![Image](/assets/images/mm/mm3_001.png)
+![Image]({{ '/assets/images/mm/mm3_001.png' | relative_url }})
 
 <h3 class="wp-block-heading">Might and Magic III: Isles of Terra (500-645)</h3>
 I made some serious errors with the aging thing and so I had to restart my party, that's why I ended in year 645.
 
-![Image](/assets/images/mm/mm3_000-1.png)
+![Image]({{ '/assets/images/mm/mm3_p2_000.png' | relative_url }})
 
 <h3 class="wp-block-heading">Might and Magic: World of Xeen (600-623)</h3>
 <ul class="wp-block-list">
@@ -121,9 +121,9 @@ I made some serious errors with the aging thing and so I had to restart my party
 <li> Newman, Female, Gnome, Cleric</li>
 </ul>
 
-![Image](/assets/images/mm/xeen_000.png)
+![Image]({{ '/assets/images/mm/xeen_000.png' | relative_url }})
 
-![Image](/assets/images/mm/xeen_001.png)
+![Image]({{ '/assets/images/mm/xeen_001.png' | relative_url }})
 
 <h3 class="wp-block-heading">Swords of Xeen (1050-1057)</h3>
 <ul class="wp-block-list">
@@ -135,9 +135,9 @@ I made some serious errors with the aging thing and so I had to restart my party
 <li> Willis*, Male, Human, Sorcerer</li>
 </ul>
 
-![Image](/assets/images/mm/swords_000.png)
+![Image]({{ '/assets/images/mm/swords_000.png' | relative_url }})
 
-![Image](/assets/images/mm/swords_001.png)
+![Image]({{ '/assets/images/mm/swords_001.png' | relative_url }})
 
 <h3 class="wp-block-heading">Might and Magic VI: The Mandate of Heaven (1165-1169)</h3>
 <ul class="wp-block-list">
@@ -147,11 +147,11 @@ I made some serious errors with the aging thing and so I had to restart my party
 <li> Isabell, Female, Human, Sorcerer-Archmage</li>
 </ul>
 
-![Image](/assets/images/mm/mm6_001.jpg)
+![Image]({{ '/assets/images/mm/mm6_001.jpg' | relative_url }})
 
-![Image](/assets/images/mm/mm6_002.jpg)
+![Image]({{ '/assets/images/mm/mm6_002.jpg' | relative_url }})
 
-![Image](/assets/images/mm/mm6_win.jpg)
+![Image]({{ '/assets/images/mm/mm6_win.jpg' | relative_url }})
 
 <h3 class="wp-block-heading">Might and Magic VII: For Blood and Honor (1168-1173)</h3>
 <ul class="wp-block-list">
@@ -161,11 +161,11 @@ I made some serious errors with the aging thing and so I had to restart my party
 <li> Breastvia II, Female, Light, Elf, Sorcerer-Archmage</li>
 </ul>
 
-![Image](/assets/images/mm/mm7_001.jpg)
+![Image]({{ '/assets/images/mm/mm7_001.jpg' | relative_url }})
 
-![Image](/assets/images/mm/mm7_002.jpg)
+![Image]({{ '/assets/images/mm/mm7_002.jpg' | relative_url }})
 
-![Image](/assets/images/mm/mm7_win.jpg)
+![Image]({{ '/assets/images/mm/mm7_win.jpg' | relative_url }})
 
 <h3 class="wp-block-heading">Might and Magic VII: For Blood and Honor (1168-1172) (2nd Play)</h3>
 <ul class="wp-block-list">
@@ -176,24 +176,24 @@ I made some serious errors with the aging thing and so I had to restart my party
 </ul>
 
 
-![Image](/assets/images/mm/mm7_evil_001.jpg)
+![Image]({{ '/assets/images/mm/mm7_evil_001.jpg' | relative_url }})
 
-![Image](/assets/images/mm/mm7_evil_002.jpg)
+![Image]({{ '/assets/images/mm/mm7_evil_002.jpg' | relative_url }})
 
-![Image](/assets/images/mm/mm7_evil_win.jpg)
+![Image]({{ '/assets/images/mm/mm7_evil_win.jpg' | relative_url }})
 
 <h3 class="wp-block-heading">Might and Magic VIII: Day of the Destroyer (1172-1175)</h3>
 <ul class="wp-block-list">
 <li> Blaine VII the Ugly, Male, Human, Knight-Champion</li>
 </ul>
 
-![Image](/assets/images/mm/mm8_001.jpg)
+![Image]({{ '/assets/images/mm/mm8_001.jpg' | relative_url }})
 
-![Image](/assets/images/mm/mm8_002.jpg)
+![Image]({{ '/assets/images/mm/mm8_002.jpg' | relative_url }})
 
-![Image](/assets/images/mm/mm8_003.jpg)
+![Image]({{ '/assets/images/mm/mm8_003.jpg' | relative_url }})
 
-![Image](/assets/images/mm/mm8_win.jpg)
+![Image]({{ '/assets/images/mm/mm8_win.jpg' | relative_url }})
 
 <h3 class="wp-block-heading">Might and Magic IX (January 521 - December 521)</h3>
 <ul class="wp-block-list">
@@ -203,8 +203,8 @@ I made some serious errors with the aging thing and so I had to restart my party
 <li> Fontane Deckard II, Male, Dwarf, Fighter-Gladiator</li>
 </ul>
 
-![Image](/assets/images/mm/mm9_001.jpg)
+![Image]({{ '/assets/images/mm/mm9_001.jpg' | relative_url }})
 
-![Image](/assets/images/mm/mm9_002.jpg)
+![Image]({{ '/assets/images/mm/mm9_002.jpg' | relative_url }})
 
-![Image](/assets/images/mm/mm9_win.jpg)
+![Image]({{ '/assets/images/mm/mm9_win.jpg' | relative_url }})

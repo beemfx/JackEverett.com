@@ -7,7 +7,7 @@
     {%- include header.md -%}
     <div class="bm-main-container">
         <div class="bm-window">
-            <a class="bm-site-title" rel="author" href="{{ '/' | relative_url }}"><img class="bm-header-img" src="/assets/images/jackeverettheader.jpg"/></a>
+            <a class="bm-site-title" rel="author" href="{{ '/' | relative_url }}"><img class="bm-header-img" src="{{ '/assets/images/jackeverettheader.jpg' | relative_url }}"/></a>
             <div class="bm-nav-buttons">
             {% include nav.md %}
             </div>
