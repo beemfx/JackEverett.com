@@ -27,6 +27,7 @@
             {%- include footer.md -%}
         </div>
     </div>
+    <script type="module" src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script type="module" src="{{ '/assets/js/site.js' | relative_url }}"></script>
 </body>
-
 </html>
