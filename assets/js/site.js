@@ -22,12 +22,12 @@ class JEGamesList extends HTMLElement{
 
         this.innerHTML = "";
 
-        Object.entries(response).forEach(([key, value]) => {
+        for (var key in response) {
             this.innerHTML += "<h2>" + key + "</h2>";
-            for (var item of value) {
+            for (var item of response[key]) {
                 this.innerHTML += "<p>" + item.name + " (" + item.platform + ") " + item.date + " - " + item.notes + "</p>";
             }
-        });
+        }
     }
 }
 customElements.define("ge-gameslist", JEGamesList);
