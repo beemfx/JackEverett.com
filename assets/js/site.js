@@ -1,9 +1,23 @@
 // (c) 2025 Beem Media. All rights reserved.
 
-class JEGamesList extends HTMLElement{
-    connectedCallback() {
-        this.innerHTML = "Games List!";
+class JEGamesList extends HTMLElement {
+    serviceUrl = "https://netsrv.beemsoft.com/api/games/GetCompletedGames/v001/";
+    getFromService = false;
 
+    connectedCallback() {
+        this.innerHTML = "Loading list...";
+        
+        if (this.getFromService)
+        {
+            this.GetFromService();
+        }
+        else
+        {
+            this.GetFromHost();
+        }
+    }
+
+    GetFromHost() {
         $.ajax({
             type: 'GET',
             url: this.getAttribute("datapath"),
@@ -17,15 +31,39 @@ class JEGamesList extends HTMLElement{
         });
     }
 
-    BuildGamesList(response) {
-        // this.innerHTML = JSON.stringify(response);  return;
+    GetFromService() {
+        $.ajax({
+            type: 'GET',
+            url: this.serviceUrl,
+            async: true,
+            success: function (response) {
+                if (response.status != null && response.status == "OK")
+                {
+                    // this.innerHTML = JSON.stringify(response.data);
+                    var jsonObject = JSON.parse(response.data);
+                    this.BuildGamesList(jsonObject);
+                } else {
+                    this.innerHTML = "Response was not OK.";
+                }
+                // this.BuildGamesList(response);
+            }.bind(this),
+            error: function (request, status, error) {
+                this.innerHTML = "Request failed.";
+            }.bind(this),
+        });
+    }
+
+    BuildGamesList(jsonObject) {
 
         this.innerHTML = "";
 
-        for (var key in response) {
-            this.innerHTML += "<h2>" + key + "</h2>";
-            for (var item of response[key]) {
-                this.innerHTML += "<p>" + item.name + " (" + item.platform + ") " + item.date + " - " + item.notes + "</p>";
+        for (var category of jsonObject) {
+            this.innerHTML += "<h2>" + category.header + "</h2>";
+
+            for (var item of category.games) {
+                this.innerHTML += "<ul>";
+                this.innerHTML += "<li>" + item.displayText + (item.notesText != null && item.notesText.length > 0 ? (" - " + item.notesText) : "") + "</li>";
+                this.innerHTML += "</ul>";
             }
         }
     }

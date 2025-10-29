@@ -6,6 +6,22 @@ h1, h2, h3, h4, h5, h6 {
 	font-size: 14pt;
 }
 
+ge-gameslist h2 {
+	font-size: 200%;
+	margin: 1em .5em .5em;
+}
+
+ge-gameslist ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+ge-gameslist li {
+	list-style-type: none;
+	margin: 0 2em;
+}
+
 .bm-header-img {
 	width: 100%;
 	padding: 0;
