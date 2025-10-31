@@ -22,6 +22,22 @@ ge-gameslist li {
 	margin: 0 2em;
 }
 
+.bm-gameslist h2 {
+	font-size: 200%;
+	margin: 1em .5em .5em;
+}
+
+.bm-gameslist ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.bm-gameslist li {
+	list-style-type: none;
+	margin: 0 2em;
+}
+
 .bm-header-img {
 	width: 100%;
 	padding: 0;

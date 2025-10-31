@@ -9,7 +9,23 @@ I will try to organize this list in the reverse order that I completed the games
 
 This list was inspired by [another guy’s list](http://kentie.net/indices/2.htm).
 
-<ge-gameslist datapath="{{ '/assets/db/glist.json' | relative_url }}"></ge-gameslist>
+<!-- <ge-gameslist datapath="{{ '/assets/db/glist.json' | relative_url }}" serviceurl=""></ge-gameslist> -->
+
+<div class="bm-gameslist">
+{% for item in site.data.glist %}
+    <h2>{{ item.header }}</h2>
+    <ul>
+        {% for game in item.games %}
+            <li>
+            {{ game.displayText }}
+            {% if game.notesText.size > 0 %}
+                - {{ game.notesText }}
+            {% endif %}
+            </li>
+        {% endfor %}
+    </ul>
+{% endfor %}
+</div>
 
 <h3 class="wp-block-heading">Other Cool Stuff</h3>
 <ul class="wp-block-list">

@@ -1,7 +1,6 @@
 // (c) 2025 Beem Media. All rights reserved.
 
 class JEGamesList extends HTMLElement {
-    serviceUrl = "https://netsrv.beemsoft.com/api/games/GetCompletedGames/v001/";
     getFromService = false;
 
     connectedCallback() {
@@ -34,7 +33,7 @@ class JEGamesList extends HTMLElement {
     GetFromService() {
         $.ajax({
             type: 'GET',
-            url: this.serviceUrl,
+            url: this.getAttribute("serviceurl"),
             async: true,
             success: function (response) {
                 if (response.status != null && response.status == "OK")
