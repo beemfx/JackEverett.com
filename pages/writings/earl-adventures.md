@@ -2,6 +2,7 @@
 layout: page
 title: "Earl Adventures"
 permalink: /pages/writings/earl-adventures
+category: writings
 ---
 <!-- wp:paragraph {"textColor":"very-dark-gray","backgroundColor":"very-light-gray","fontSize":"small"} -->
 <p class="has-text-color has-background has-small-font-size has-very-dark-gray-color has-very-light-gray-background-color">A rock opera written and performed in 12th grade drama class. ca. 2001.</p>

@@ -2,6 +2,7 @@
 layout: page
 title: "The Hit"
 permalink: /pages/writings/the-hit
+category: writings
 ---
 <!-- wp:paragraph {"textColor":"very-dark-gray","backgroundColor":"very-light-gray","fontSize":"small"} -->
 <p class="has-text-color has-background has-small-font-size has-very-dark-gray-color has-very-light-gray-background-color">Written 2003. Originally this short short was a bit more vulgar but I toned it down in my more mature years.</p>

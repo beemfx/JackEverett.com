@@ -2,6 +2,7 @@
 layout: page
 title: "Returning Home"
 permalink: /pages/writings/returning-home
+category: writings
 ---
 <!-- wp:paragraph {"textColor":"very-dark-gray","backgroundColor":"very-light-gray","fontSize":"small"} -->
 <p class="has-text-color has-background has-small-font-size has-very-dark-gray-color has-very-light-gray-background-color">Written February, 2010 for a University writing class.</p>

@@ -2,6 +2,7 @@
 layout: page
 title: "Tale of a Plane Wreck"
 permalink: /pages/writings/tale-of-a-plane-wreck
+category: writings
 ---
 <!-- wp:paragraph {"textColor":"very-dark-gray","backgroundColor":"very-light-gray","fontSize":"small"} -->
 <p class="has-text-color has-background has-small-font-size has-very-dark-gray-color has-very-light-gray-background-color">Written in 2000 for 12th grade English class while studying <em>Lord of the Flies</em>.</p>

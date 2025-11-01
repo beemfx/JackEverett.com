@@ -2,6 +2,7 @@
 layout: page
 title: "Kevin Adventures"
 permalink: /pages/writings/kevin-adventures
+category: writings
 ---
 <!-- wp:paragraph {"textColor":"very-dark-gray","backgroundColor":"very-light-gray","fontSize":"small"} -->
 <p class="has-text-color has-background has-small-font-size has-very-dark-gray-color has-very-light-gray-background-color">Written in 2001. I wrote this because a friend of mine had a girlfriend I thought he should break up with and I wrote this to inspire him to do so.</p>

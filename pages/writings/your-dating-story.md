@@ -2,6 +2,7 @@
 layout: page
 title: "Your Dating Story"
 permalink: /pages/writings/your-dating-story
+category: writings
 ---
 <!-- wp:paragraph {"textColor":"very-dark-gray","backgroundColor":"very-light-gray","fontSize":"small"} -->
 <p class="has-text-color has-background has-small-font-size has-very-dark-gray-color has-very-light-gray-background-color">Written 2001 with Wayne Bonner. Wayne asked for help writing a story for a class. I decided to do a different take on it and wrote it in 2nd person.</p>

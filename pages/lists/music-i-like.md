@@ -2,7 +2,10 @@
 layout: page
 title: "Music I Like"
 permalink: /pages/lists/music-i-like
+category: lists
 ---
+This list is not maintained. I don't even like most of thse bands anymore.
+
 <!-- wp:heading {"level":3} -->
 <h3> Bands </h3>
 <!-- /wp:heading -->

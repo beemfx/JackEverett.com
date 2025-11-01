@@ -2,6 +2,7 @@
 layout: page
 title: "Jane Old Version"
 permalink: /pages/writings/jane-old-version
+category: writings
 ---
 <!-- wp:paragraph {"textColor":"very-dark-gray","backgroundColor":"very-light-gray","fontSize":"small"} -->
 <p class="has-text-color has-background has-small-font-size has-very-dark-gray-color has-very-light-gray-background-color">Written June, 2009. This one is based on a dream I had.</p>

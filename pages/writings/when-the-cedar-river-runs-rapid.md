@@ -2,6 +2,7 @@
 layout: page
 title: "When the Cedar River Runs Rapid"
 permalink: /pages/writings/when-the-cedar-river-runs-rapid
+category: writings
 ---
 <!-- wp:paragraph {"textColor":"very-dark-gray","backgroundColor":"very-light-gray","fontSize":"small"} -->
 <p class="has-text-color has-background has-small-font-size has-very-dark-gray-color has-very-light-gray-background-color">Written April, 2010 for University writing class.</p>

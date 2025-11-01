@@ -2,6 +2,7 @@
 layout: page
 title: "YouTube"
 permalink: /pages/youtube
+cateogry: youtube
 ---
 <!-- wp:paragraph -->
 <p>You can find Jack Everett on the following YouTube channels:</p>

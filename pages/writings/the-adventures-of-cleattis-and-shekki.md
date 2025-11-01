@@ -2,6 +2,7 @@
 layout: page
 title: "The Adventures of Cleattis and Shekki"
 permalink: /pages/writings/the-adventures-of-cleattis-and-shekki
+category: writings
 ---
 <!-- wp:paragraph {"textColor":"very-dark-gray","backgroundColor":"very-light-gray","fontSize":"small"} -->
 <p class="has-text-color has-background has-small-font-size has-very-dark-gray-color has-very-light-gray-background-color">Co-written with Wayne Bonner in 2001. Wayne was supposed to write a play for a class, and being that I was a bit more creative I helped out.</p>

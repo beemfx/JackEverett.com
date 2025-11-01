@@ -1,1 +1,1 @@
-<nav>{% for item in site.data.nav %}<a href="{{ item.link | relative_url }}" {% if page.url==item.link %}class="bm-active-nav" {% endif %}>{{ item.name }}</a>{% endfor %}</nav>
+<nav>{% for item in site.data.nav %}<a href="{{ item.link | relative_url }}" {% if page.url==item.link or page.category==item.category %}class="bm-active-nav"{% elsif page.layout=="post" and item.category=="blog" %}class="bm-active-nav"{% endif %}>{{ item.name }}</a>{% endfor %}</nav>

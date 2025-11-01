@@ -2,6 +2,7 @@
 layout: page
 title: "Jane"
 permalink: /pages/writings/jane
+category: writings
 ---
 <!-- wp:paragraph {"textColor":"very-dark-gray","backgroundColor":"very-light-gray","fontSize":"small"} -->
 <p class="has-text-color has-background has-small-font-size has-very-dark-gray-color has-very-light-gray-background-color">

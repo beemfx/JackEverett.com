@@ -2,6 +2,7 @@
 layout: page
 title: "Fun Stuff"
 permalink: /pages/fun-stuff
+category: lists
 ---
 <!-- wp:heading -->
 <h2 class="wp-block-heading">Macaulay Culkin Book Cover</h2>

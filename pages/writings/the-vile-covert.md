@@ -2,6 +2,7 @@
 layout: page
 title: "The Vile Covert"
 permalink: /pages/writings/the-vile-covert
+category: writings
 ---
 <!-- wp:paragraph {"textColor":"very-dark-gray","backgroundColor":"very-light-gray","fontSize":"small"} -->
 <p class="has-text-color has-background has-small-font-size has-very-dark-gray-color has-very-light-gray-background-color">Written ca. 2003 this is based off of a real experience of finding the things mentioned in the story and speculating as to why they were there.</p>

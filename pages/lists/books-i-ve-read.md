@@ -2,7 +2,10 @@
 layout: page
 title: "Books I've Read"
 permalink: /pages/lists/books-i-ve-read
+category: lists
 ---
+This list is not maintained anymore.
+
 <!-- wp:paragraph -->
 <p>I have started writing this list, but a more complete version is currently stored in a document on my computer.</p>
 <!-- /wp:paragraph -->

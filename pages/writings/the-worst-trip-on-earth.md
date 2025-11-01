@@ -2,6 +2,7 @@
 layout: page
 title: "The Worst Trip on Earth"
 permalink: /pages/writings/the-worst-trip-on-earth
+category: writings
 ---
 <!-- wp:paragraph {"textColor":"very-dark-gray","backgroundColor":"very-light-gray","fontSize":"small"} -->
 <p class="has-text-color has-background has-small-font-size has-very-dark-gray-color has-very-light-gray-background-color">Written ca. 1998 for 9th grade English class.</p>

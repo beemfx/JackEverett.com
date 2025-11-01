@@ -2,6 +2,7 @@
 layout: page
 title: "The Land of the Wizard's Portal"
 permalink: /pages/writings/the-land-of-the-wizard-s-portal
+category: writings
 ---
 <!-- wp:paragraph {"textColor":"very-dark-gray","backgroundColor":"very-light-gray","fontSize":"small"} -->
 <p class="has-text-color has-background has-small-font-size has-very-dark-gray-color has-very-light-gray-background-color">Written 1998. A short story written for 9th grade English class while studying Homer. The whole idea of the Wizard's Portal was inspired by WarCraft II.</p>

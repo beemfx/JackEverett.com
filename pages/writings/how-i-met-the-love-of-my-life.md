@@ -2,6 +2,7 @@
 layout: page
 title: "How I Met the Love of My Life"
 permalink: /pages/writings/how-i-met-the-love-of-my-life
+category: writings
 ---
 <!-- wp:paragraph {"textColor":"very-dark-gray","backgroundColor":"very-light-gray","fontSize":"small"} -->
 <p class="has-text-color has-background has-small-font-size has-very-dark-gray-color has-very-light-gray-background-color">Written in 1998 for 9th grade English class while studying Romeo and Juliet. We were meant to write a story of how a  character met the love of their life. Having recently seen the movie <em>Air Force One</em> my story took an interesting direction.</p>

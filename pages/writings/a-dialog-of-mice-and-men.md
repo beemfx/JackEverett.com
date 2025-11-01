@@ -2,6 +2,7 @@
 layout: page
 title: "A Dialog of Mice and Men"
 permalink: /pages/writings/a-dialog-of-mice-and-men
+category: writings
 ---
 <!-- wp:paragraph {"textColor":"very-dark-gray","backgroundColor":"very-light-gray","fontSize":"small"} -->
 <p class="has-text-color has-background has-small-font-size has-very-dark-gray-color has-very-light-gray-background-color">Written ca. 2002. This is a philosophical dialog based on the characters in <em>Of Mice and Men</em> discussing the ethics of the death of Lenny. Written in the Aristotle style of setting figures in dialog.</p>

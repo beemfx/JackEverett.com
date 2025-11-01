@@ -1,18 +1,27 @@
 - name: Home
   link: /
-- name: Writings
-  link: /pages/writings
-- name: Art
-  link: /pages/the-art-of-jack-everett
-- name: Blog
-  link: /blog
-- name: YouTube
-  link: /pages/youtube
+  category: home
 - name: Lists
   link: /pages/lists
+  category: lists
+- name: Writings
+  link: /pages/writings
+  category: writings
+- name: Art
+  link: /pages/the-art-of-jack-everett
+  category: art
+- name: Blog
+  link: /blog
+  category: blog
+- name: YouTube
+  link: /pages/youtube
+  category: youtube
 - name: Biography
   link: /pages/biography
+  category: biography
 - name: Contact
   link: /contact
+  category: contact
 - name: About
   link: /pages/about-and-copyright
+  category: about

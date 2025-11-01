@@ -2,7 +2,10 @@
 layout: page
 title: "Movies I've Seen"
 permalink: /pages/lists/movies-i-ve-seen
+category: lists
 ---
+This list is not maintained.
+
 <!-- wp:paragraph -->
 <p>This is a list of all the movies I’ve seen. Being that I’ve seen a lot  of movies in my life, this list will actually be fairly incomplete prior  to when I started writing it in 2011. Also, unlike my video games list, I will not put repeated viewings on this list. So I may have seen some of the movies on this list multiple times.<br><br>Since there are many remakes of movies, and movies with the same title, I  will put the year each film came out along with the title of the film,  and if other distinguishing remarks are needed I will make those as  well. For some movies I will add additional comments, for example when I  only saw half of the film.<br><br>Finally, note that I may have seen these films in theaters, home video, or on television.<br><br>Movies marked with a + are the ones I consider to be exceptional films.<br></p>
 <!-- /wp:paragraph -->

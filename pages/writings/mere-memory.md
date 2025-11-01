@@ -2,6 +2,7 @@
 layout: page
 title: "Mere Memory"
 permalink: /pages/writings/mere-memory
+category: writings
 ---
 <!-- wp:paragraph {"textColor":"very-dark-gray","backgroundColor":"very-light-gray","fontSize":"small"} -->
 <p class="has-text-color has-background has-small-font-size has-very-dark-gray-color has-very-light-gray-background-color">Written ca. 2003. This one is based off of a dream I had.</p>

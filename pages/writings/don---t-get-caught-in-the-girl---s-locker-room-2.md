@@ -2,6 +2,7 @@
 layout: page
 title: "Don’t Get Caught in the Girl’s Locker Room 2"
 permalink: /pages/writings/don---t-get-caught-in-the-girl---s-locker-room-2
+category: writings
 ---
 <!-- wp:paragraph {"textColor":"very-dark-gray","backgroundColor":"very-light-gray","fontSize":"small"} -->
 <p class="has-text-color has-background has-small-font-size has-very-dark-gray-color has-very-light-gray-background-color">Written in 2004. Based upon characters created by Todd Strasser in the novel <em>Don't Get Caught in the Girls Locker Room</em>. A parody that actually explores what a story with such a raunchy title should be.</p>

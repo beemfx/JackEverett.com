@@ -2,7 +2,8 @@
 layout: page
 title: "TV Series I've Seen"
 permalink: /pages/lists/tv-series-i-ve-seen
+category: lists
 ---
-<!-- wp:list -->
+This list is not maintained.
+
 <ul><li> Portlandia (1-5)</li><li> Terra Nova(1)</li><li> Merlin(1-)</li><li> Salem (1-2)</li><li> Ascension (1)</li><li> World Without End (All)</li><li> The Twilight Zone (1-3,5)</li><li> Dark Matter (1)</li><li> Unbreakable Kimmy Schmidt (Season 1)</li><li> Death in Paradise (1-3)</li><li> A Young Doctor’s Notebook and Other Stories (All)</li><li> Witnesses (2014)</li><li> Death in Paradise (All)</li><li> Black Mirror (2011-2013)</li><li> Copper (Season 1 and 2)</li><li> Ripper Street (Seasons 1 and 2)</li><li> Farscape (All 4 Seasons)</li><li> Extreme Cheapskates (2012) - 2013 not seen.</li><li> The Event (2010)</li><li> Red Dwarf (1988-2009) - 2012 Series not seen.</li><li> Supernatural (2005-2013) - 2014 Series not seen yet.</li><li> North &amp; South (2004)</li><li> The 4400 (2004-2007)</li><li> Outcasts (2011)</li><li> Earth 2 (1994-1995)</li><li> New Girl (Seasons 1-4)</li><li> A Gifted Man (2011)</li><li> Monarch of the Glen (2000-2005)</li><li> Jericho (2006-2007)</li><li> Hack (2002-2004)</li><li> Borgia (2011-2013, All)</li><li> Frasier (1993-2004)</li><li> Cheers (1982-1993)</li><li> Battlestar Galactica (2004-2009)</li><li> The Adventures of Brisco County Jr. (1993â€“1994)</li><li> Miracles (2003)</li><li> Firefly (2002)</li><li> John Doe (2002)</li><li> The X-Files (1993-2002)</li><li> Terminator: The Sarah Connor Chronicles (2008â€“2009)</li><li> 24 (2001-2010)</li><li> Profiler (1996-2000)</li><li> Seinfeld (1989â€“1998)</li><li> The Simpsons (1989-2004) - Have not seen any new episodes since 2004.</li><li> Star Trek: Deep Space Nine (1993-1999)</li><li> Star Trek: Voyager (1995-2001)</li><li> Star Trek: The Next Generation (1987-1998)</li><li> Star Trek (1966-1969)</li></ul>
-<!-- /wp:list -->

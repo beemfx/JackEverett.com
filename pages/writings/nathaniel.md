@@ -2,6 +2,7 @@
 layout: page
 title: "Nathaniel"
 permalink: /pages/writings/nathaniel
+category: writings
 ---
 <!-- wp:paragraph {"textColor":"very-dark-gray","backgroundColor":"very-light-gray","fontSize":"small"} -->
 <p class="has-text-color has-background has-small-font-size has-very-dark-gray-color has-very-light-gray-background-color">Written in April, 2010, for a University writing class. Originally published as “Nathaniel” in The Literary Hatchet Issue #12 (August 2015) pg. 174<br> (<a href="http://lizzieandrewborden.com/HatchetOnline/LiteraryHatchet/download-issue-12.htm)">http://lizzieandrewborden.com/HatchetOnline/LiteraryHatchet/download-issue-12.htm)</a></p>

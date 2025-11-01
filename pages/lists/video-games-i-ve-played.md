@@ -2,6 +2,7 @@
 layout: page
 title: "Video Games I've Played"
 permalink: /pages/lists/video-games-i-ve-played
+category: lists
 ---
 This is a list that, to the best of my recollection, documents every video game that I’ve played. It is fairly complete, but I know that I’m still missing quite a few games that I played before 1998. The list is grouped by years to show some of the context in which I played these games.
 
