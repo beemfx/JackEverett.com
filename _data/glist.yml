@@ -127,9 +127,9 @@
     year: 2024
     notesText: ''
   - id: 2690
-    displayText: Powerslave (DOS Classic Edition, Raze) (PC) November 14, 2024
+    displayText: PowerSlave (DOS Classic Edition) (PC) November 14, 2024
     year: 2024
-    notesText: ''
+    notesText: With Raze.
   - id: 2691
     displayText: 'Legacy of Kain: Blood Omen (PC) November 4, 2024'
     year: 2024
@@ -152,6 +152,10 @@
     notesText: ''
   - id: 2696
     displayText: Lies of P (PC) August 1, 2024
+    year: 2024
+    notesText: ''
+  - id: 3546
+    displayText: 'Diablo II: Resurrected (PC)'
     year: 2024
     notesText: ''
   - id: 2697
@@ -297,7 +301,7 @@
     year: 2023
     notesText: ''
   - id: 2732
-    displayText: Diablo IV (PC/Xbox Series X) July 22, 2023
+    displayText: Diablo IV (PC/XSX) July 22, 2023
     year: 2023
     notesText: Completed with Tony and Ashley with different characters.
   - id: 2733
@@ -781,9 +785,9 @@
     year: 2019
     notesText: ''
   - id: 2851
-    displayText: Spear of Destiny (PC,ECWolf)
+    displayText: Spear of Destiny (PC)
     year: 2019
-    notesText: Including both mission packs.
+    notesText: Including both mission packs. Using ECWolf.
   - id: 2852
     displayText: Teenage Mutant Ninja Turtles (NES) November 13, 2019
     year: 2019
@@ -793,9 +797,9 @@
     year: 2019
     notesText: ''
   - id: 2854
-    displayText: Wolfenstein 3D (PC,ECWolf) November 7, 2019
+    displayText: Wolfenstein 3D (PC) November 7, 2019
     year: 2019
-    notesText: All six episodes.
+    notesText: All six episodes. Using ECWolf.
   - id: 2855
     displayText: Faerie Solitaire Remastered (PC) November 5, 2019
     year: 2019
@@ -1279,9 +1283,9 @@
     year: 2016
     notesText: ''
   - id: 2975
-    displayText: Lifeless Planet (PC) (Premier Edition)
+    displayText: Lifeless Planet (PC)
     year: 2016
-    notesText: ''
+    notesText: Premier Edition.
   - id: 2976
     displayText: 35MM (PC) June 30, 2016
     year: 2016
